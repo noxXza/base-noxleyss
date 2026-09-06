@@ -3,7 +3,7 @@
        //    </>  𝐂𝐫𝐞𝐝𝐢𝐭𝐬  </>      //
      //   𝐂𝐫𝐞𝐚𝐭𝐨𝐫: 𝐧𝐨𝐱𝐗𝐳𝐚.𝐞𝐱𝐞      //
    //   𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @𝐧𝐨𝐱𝐗𝐳𝐚𝟏𝟗    //
- //   𝐂𝐫𝐞𝐚𝐭𝐞𝐝: 𝟏𝟗-𝟎𝟖-𝟐𝟎𝟐𝟔       //
+ //   𝐂𝐫𝐞𝐚𝐭𝐞𝐝: 𝟎𝟔-𝟎𝟗-𝟐𝟎𝟐𝟔       //
 //﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌//
 
 require('./control/settings');
@@ -432,7 +432,7 @@ jika kamu menginginkan base script ini silahkan klik tombol di bawah ini
                         name: "cta_url",
                         buttonParamsJson: JSON.stringify({
                             display_text: "get sc",
-                            url: "https://github.com/noxXza/base-wa-cjs",
+                            url: "https://github.com/noxXza/base-noxleyss",
                             merchant_url: "https://www.google.com"
                         })
                     }
