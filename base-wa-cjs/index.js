@@ -18,7 +18,7 @@ jidDecode,
 downloadContentFromMessage,
 makeCacheableSignalKeyStore,
 updateProfileStatus
-} = require("@whiskeysockets/baileys");
+} = require("noxleyss");
 const pino = require('pino');
 const readline = require("readline");
 const fs = require('fs');
