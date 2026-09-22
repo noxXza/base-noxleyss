@@ -6,7 +6,7 @@
  //   𝐂𝐫𝐞𝐚𝐭𝐞𝐝: 𝟎𝟔-𝟎𝟗-𝟐𝟎𝟐𝟔       //
 //﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌//
 
-const { extractMessageContent, jidNormalizedUser, proto, delay, getContentType, areJidsSameUser, generateWAMessage } = require("@whiskeysockets/baileys")
+const { extractMessageContent, jidNormalizedUser, proto, delay, getContentType, areJidsSameUser, generateWAMessage } = require("noxleyss")
 const chalk = require('chalk')
 const fs = require('fs')
 const Crypto = require('crypto')
