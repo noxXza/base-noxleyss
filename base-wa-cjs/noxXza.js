@@ -14,7 +14,7 @@ const { spawn, exec, execSync } = require('child_process');
 
 const {
 default: baileys, proto, generateWAMessage, generateWAMessageFromContent, getContentType, prepareWAMessageMedia
-} = require("@whiskeysockets/baileys");
+} = require("noxleyss");
 
 module.exports = sock = async (sock, m, chatUpdate, store) => {
 try {
